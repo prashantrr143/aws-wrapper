@@ -1,0 +1,25 @@
+{
+  "name": "aws-s3-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prashant Kumar Singh",
+  "email": "prasant.siet153@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.0",
+    "aws-sdk": "^2.498.0",
+    "bunyan": "^1.8.12",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "webpack": "^4.37.0",
+    "typescript": "^3.5.3"
+  }
+}
